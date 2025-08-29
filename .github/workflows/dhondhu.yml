@@ -1,0 +1,11 @@
+name: "my first workflow"
+
+on:
+ push:
+   branches:
+     - 'features/**'
+     - 'main'
+     - 'hotflix/**'
+ 
+ 
+ 
