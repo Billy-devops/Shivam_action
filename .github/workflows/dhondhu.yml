@@ -6,6 +6,17 @@ on:
      - 'features/**'
      - 'main'
      - 'hotflix/**'
- 
+
+jobs:
+  terraformInit: 
+    name: Terrafrom Initwa
+    runs-on: self-hosted
+    steps:
+    - name: Dhondhu Maharaj  Rocks
+      run: echo Dhondhu Maharaj
+      
+    
+    
+     
  
  
